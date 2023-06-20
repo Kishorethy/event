@@ -1,2 +1,2 @@
 # Event-Management-Website
-Event Management website using HTML, CSS, JavaScript.
+ Responsive Event Management website using HTML, CSS, JavaScript.
