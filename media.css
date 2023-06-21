@@ -26,15 +26,6 @@
      .top-right{
         width: 100%;
      }
-     .fontsize{
-        font-size: 21px;
-     }
-     .font-bold{
-        font-size: 2rem;
-    }
-    .fontsizebig{
-        font-size: 2.5rem;
-    }
     .top-left1{
         width:40%;
     }
@@ -45,12 +36,6 @@
     /* about.html media query */
     .mic-image{
         width:80%
-    }
-    .para{
-        font-size:5vw;
-    }
-    .h1fontsize{
-        font-size: 2rem;
     }
     /* .dropdown .toggle{
         color:black;
@@ -63,9 +48,6 @@
         width: 50%;
     
     }
-.h1fontsize{
-    font-size: 2.5rem;
-}
 
     /* contact media query */
     .form{
@@ -79,6 +61,9 @@
     .textarea{
         padding: 2px 2px;
         margin: 1px 0;  
+    }
+    html{
+        font-size: 14px;
     }
 }
 @media(min-width:760px) and (max-width:900px)
@@ -108,15 +93,6 @@
      .top-right{
         width: 100%;
      }
-     .fontsize{
-        font-size:5vw;
-     }
-     .font-bold{
-        font-size: 2rem;
-    }
-    .fontsizebig{
-        font-size: 2.5rem;
-    }
     .top-left1{
         width:40%;
     }
@@ -127,12 +103,6 @@
     /* about.html media query */
     .mic-image{
         width:80%
-    }
-    .para{
-        font-size: 20px;
-    }
-    .h1fontsize{
-        font-size: 2rem;
     }
     /* .dropdown .toggle{
         color:black;
@@ -145,10 +115,6 @@
         width: 50%;
     
     }
-.h1fontsize{
-    font-size: 2.5rem;
-}
-
     /* contact media query */
     .form{
         width: 70%;
@@ -161,6 +127,9 @@
     .textarea{
         padding: 2px 2px;
         margin: 1px 0;  
+    }
+    html{
+        font-size: 12px;
     }
 }
 @media(min-width:320px) and (max-width:760px)
@@ -190,15 +159,6 @@
      .top-right{
         width: 100%;
      }
-     .fontsize{
-        font-size:5vw;
-     }
-     .font-bold{
-        font-size: 2rem;
-    }
-    .fontsizebig{
-        font-size: 2rem;
-    }
     .top-left1{
         width:60%;
         margin-left: auto;
@@ -219,12 +179,6 @@
     .mic-image{
         width:80%
     }
-    .para{
-        font-size: 19px;
-    }
-    .h1fontsize{
-        font-size: 2rem;
-    }
     /* .dropdown .toggle{
         color:black;
         font-size: 17px;
@@ -236,9 +190,6 @@
         width: 50%;
     
     }
-.h1fontsize{
-    font-size: 2rem;
-}
 
     /* contact media query */
     .form{
@@ -252,6 +203,9 @@
     .textarea{
         padding: 2px 2px;
         margin: 1px 0;  
+    }
+    html{
+        font-size: 10px;
     }
 }
 
